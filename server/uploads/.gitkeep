@@ -1,0 +1,3 @@
+// Placeholder — uploaded images are stored here during development.
+// This file exists to ensure the uploads/ directory is tracked by Git.
+// In production, replace local storage with Cloudinary, AWS S3, or Firebase Storage.
